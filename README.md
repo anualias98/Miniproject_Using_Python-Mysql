@@ -1,1 +1,1 @@
-# Miniproject_Using_Python-Mysql
+# Miniproject_Using_Python_Mysql
