@@ -11,8 +11,8 @@ import platform
 projectdb = mysql.connector.connect(
     host="localhost",
     user="root",
-    password="Sree@123",
-    database="eat"
+    password="Anu@5806",
+    database="foodplaza"
 
 )
 mycursor = projectdb.cursor()
